@@ -130,6 +130,3 @@ SELECT
     total_spent * 1.0 / NULLIF(count_paying_players, 0) AS avg_total_spent_per_player -- средняя суммарная стоимость всех покупок на одного игрока
 FROM player_stats
 ORDER BY race;
-
--- Задача 2: Частота покупок
--- Напишите ваш запрос здесь
