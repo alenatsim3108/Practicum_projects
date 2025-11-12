@@ -5,4 +5,8 @@
 - Извлечение, подготовка и очистка данных
 - Выявление закономерностей, инсайтов, корреляций и взаимосвязей
 - Проведение A/B тестов
-- В работе использовались библиотеки: Pandas, Numpy, Matplotlib, Seaborn, Math, Phik, Scipy, Statsmodels, Matplotlib_venn и др.
+
+Стек: 
+- SQL: PostgreSQL, ClickHouse
+- Python: Pandas, Numpy, Matplotlib, Seaborn, Math, Phik, Scipy, Statsmodels, Matplotlib_venn и др.
+- Визуализации: Yandex DataLens, Tableau
