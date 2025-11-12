@@ -1,2 +1,8 @@
-# Projects in Data Analysis
-Here are some of my projects comleted this year. They demonstrate my knowledge in data analysis, data extraction and preparation, data preprocessing and cleaning, finding insights and patterns in data, correlations and relationships, conducting A/B tests and using libraries: Pandas, Numpy, Matplotlib, Seaborn, Math, Phik, Scipy, Statsmodels, Missingno, Matplotlib_venn etc.
+# Портфолио учебных проектов по анализу данных
+В этом году я реализовала ряд проектов, которые демонстрируют мою компетенцию в следующих областях:
+
+- Анализ данных
+- Извлечение, подготовка и очистка данных
+- Выявление закономерностей, инсайтов, корреляций и взаимосвязей
+- Проведение A/B тестов
+- В работе использовались библиотеки: Pandas, Numpy, Matplotlib, Seaborn, Math, Phik, Scipy, Statsmodels, Matplotlib_venn и др.
